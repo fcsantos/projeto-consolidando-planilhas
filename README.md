@@ -1,2 +1,2 @@
-# projeto-consolidando-pplanilhas
+# projeto-consolidando-planilhas
 Consolidaçao de planilhas excel
